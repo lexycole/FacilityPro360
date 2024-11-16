@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
-    "@expo/webpack-config": "^18.0.1",
+    "@expo/webpack-config": "^18.1.1",
     "@react-native-async-storage/async-storage": "^1.21.0",
     "@react-native-community/netinfo": "^11.2.1",
     "@react-native-picker/picker": "2.4.8",
@@ -21,7 +21,7 @@
     "@react-three/fiber": "^8.3.0",
     "@reduxjs/toolkit": "^1.8.3",
     "base-64": "^1.0.0",
-    "expo": "^48.0.0",
+    "expo": "^52.0.7",
     "expo-constants": "~14.2.1",
     "expo-gl": "~12.4.0",
     "expo-image-multiple-picker": "^4.8.3",
